@@ -135,10 +135,12 @@
 	display:inline-block;
 	font-size:30px;
 }
+.navigation{
+	align-items:flex-end;
+}
 .nav{
 	width: fit-content;
 	padding: 10px 0;
-	margin-left: 6.7em;
 }
 .navbar{
 	display: flex;
@@ -220,7 +222,7 @@
 
 }
 .btn_sec{
-	padding: 0 20px;
+	padding-left:20px;
 }
 /*Header Section Ends*/
 /*Banner Section Starts*/
