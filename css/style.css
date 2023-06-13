@@ -403,6 +403,9 @@
 .course_sec{
 	padding:4em;
 }
+.course_card{
+	border:1px solid #d8d5d5;
+}
 .course_title-1{
 	font-size:0.87em;
 	letter-spacing: 2px;
@@ -426,10 +429,12 @@
 .course_img{
 	width:100%;
 }
+.course_cont{
+	padding:14px;
+}
 .course_cont-1{
 	display:flex;
 	justify-content:space-between;
-	padding-top:8px;
 }
 .course_name{
 	color:#fff;
@@ -440,6 +445,9 @@
 .course_price{
 	font-weight:600;
 	font-size:1em;
+}
+.course_cont-2{
+	padding-bottom:15px;
 }
 .course_text{
 	text-decoration:none;
@@ -466,6 +474,8 @@
 .course_cont-3{
 	display:flex;
 	justify-content:space-between;
+	border-top:1px solid #d8d5d5;
+	padding-top:15px;
 }
 .cont-3_left{
 	display:flex;
