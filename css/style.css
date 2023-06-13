@@ -383,6 +383,9 @@
 .icon_card:hover{
 	border:1px solid #5fcf80;
 }
+.icon_card:hover .icon_text{
+	color:#5fcf80;
+}
 .icon_text{
 	font-size: 1.15em;
 	font-weight: 500;
