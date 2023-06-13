@@ -287,7 +287,13 @@
 	padding-right:6px;
 	font-size:1.25em;
 }
-.abt_para{
+.abt_para-1{
+	font-size: 1em;
+	padding: 15px 0;
+	font-style:italic;
+}
+
+.abt_para-2{
 	font-size: 1em;
 	padding: 15px 0;
 }
