@@ -338,7 +338,11 @@
 	background-color:rgba(255, 255, 255, 0.2);
 	color: #fff;
 	border: none;	
-	
+	transition:0.5s;
+}
+.btn_why:hover{
+	background-color:#fff;
+	color:#6eda8f;
 }
 .why_right{
 	padding: 1em 0;
